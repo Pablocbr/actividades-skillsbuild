@@ -6,24 +6,24 @@ Este repositorio contiene dos actividades realizadas en Google Colab como parte 
 
 ## 📘 Contenido
 
-### ✅ Laboratorio 1: Nombre de la actividad
-Descripción breve (por ejemplo: introducción a Python, manejo de listas, uso de bucles...)
+### ✅ Laboratorio 1: Solicitar a un modelo de IBM Granite que clasifique y resuma datos
+Configuración de solicitudes para modelos de IBM Granite. Iteraciones sucesivas para obtener resultados precisos, mejorando progresivamente las respuestas.
 
-📄 Archivo: [`Laboratorio_1.ipynb`](Laboratorio_1.ipynb)
+📄 Archivo: [`classification_lab1.ipynb`](classification_lab1.ipynb)
 
 ---
 
-### ✅ Laboratorio 2: Nombre de la actividad
-Descripción breve (por ejemplo: análisis de datos con pandas, visualización básica...)
+### ✅ Laboratorio 2: Ajuste de los parámetros del modelo para perfeccionar el resultado
+Configuración y ajuste iterativo de los parámetros de modelos de IBM Granite para optimizar las tareas de clasificación y resumen de datos. 
 
-📄 Archivo: [`Laboratorio_2.ipynb`](Laboratorio_2.ipynb)
+📄 Archivo: [`classification_lab2.ipynb`](classification_lab2.ipynb)
 
 ---
 
 ## 📂 Tecnologías utilizadas
 - Google Colab (Python)
 - GitHub
-
+- Replicate
 ---
 
 ## 💡 Notas
